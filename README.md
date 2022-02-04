@@ -1,13 +1,13 @@
 Consignes :
 
-- Compléter le code de la méthode getNumInstances de la classe personnage pour que cette méthode retourne la propriété
-statique $numInstances
-- Afficher dans la page index.php le nombre d'instances de la classe personnage en utilisant la méthode approprié de la classe personnage
-- La classe dragon n'utilise pas le constructeur de la classe personnage, vous allez implémenter une variable statique privée
-- Vous allez incrémenter cette propriété dans le constructeur comme cela a été fait pour la classe personnage
-- Puis vous allez créer une méthode statique qui retourne le nombre de dragons créés
-- Vous allez afficher le nombre de dragons créés dans la page index.php en utilisant la méthode que vous venez de créer
-Souvenez vous que pour appeler une méthode statique, vous devez faire référence à la classe correspondante.
+***- Compléter le code de la méthode getNumInstances de la classe personnage pour que cette méthode retourne la propriété
+statique $numInstances***
+***- Afficher dans la page index.php le nombre d'instances de la classe personnage en utilisant la méthode approprié de la classe personnage***
+***- La classe dragon n'utilise pas le constructeur de la classe personnage, vous allez implémenter une variable statique privée***
+***- Vous allez incrémenter cette propriété dans le constructeur comme cela a été fait pour la classe personnage***
+***- Puis vous allez créer une méthode statique qui retourne le nombre de dragons créés***
+***- Vous allez afficher le nombre de dragons créés dans la page index.php en utilisant la méthode que vous venez de créer
+Souvenez vous que pour appeler une méthode statique, vous devez faire référence à la classe correspondante.***
 
 
 

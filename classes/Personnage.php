@@ -33,13 +33,12 @@ class Personnage {
 
     public static function getNumInstances() {
         // Complétez le code ici
-        return
+        return self::$numInstances;
     }
 
     // Méthode permettant de déplacer le personnage vers la droite
     public function walkRight() {
         $this->x+=1;
-
     }
 
     // Setter permettant de définir l'attribut privé id
